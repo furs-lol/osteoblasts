@@ -1,0 +1,9 @@
+{
+    "label": "Routes",
+    "position": 2,
+    "link": {
+      "type": "generated-index",
+      "description": "Resource routes for the Furs-lol API"
+    }
+  }
+  
